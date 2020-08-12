@@ -1,0 +1,20 @@
+/public_html
+	/dev
+		/public
+			index.php
+			/css
+			/js
+			/img
+			favicon.ico
+			robots.txt
+/laravel
+	/app
+	/bootstrap
+	/config
+	/database
+	/resources
+	/routes
+	/storage
+	/tests
+	/vendor
+	server.php
