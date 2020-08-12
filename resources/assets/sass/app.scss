@@ -1,0 +1,40 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+ul {
+  list-style: none;
+}
+
+li.nav-item.dropdown {background: #fff;}
+
+li { 
+  background: #aaa; 
+  margin: 2px auto;
+  padding-left: .5em;
+  padding-bottom: .3em;
+  border-bottom: 1px #fff solid;
+  
+}
+
+li:nth-child(odd) {
+  background: #ddd; 
+}
+
+li.li-parent {
+  background: #ddd;
+  border: none;
+}
+
+/* commenting stuff */
