@@ -81,7 +81,7 @@
             <div class="content">
                 @if (Auth::check())
                     <div class="title m-b-md">
-                        <div>Open Statistics</div>
+                        <div>Open Statisticss</div>
                     </div>
                     <div class="links">
                         <a href="/stats/csvs">CSVs</a>
